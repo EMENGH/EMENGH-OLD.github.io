@@ -6,17 +6,17 @@
 
 body {
     padding-top: 54px;
-    background-color: lightgrey;
+    background-color: rgba(118, 148, 139, 0.60);
 }
 
 @media (min-width: 992px) {
     body {
-        padding-top: 56px;
+        padding-top: 6px;
     }
 }
 
 header.masthead {
-    background: url('https://unsplash.it/1900/1080?image=304') no-repeat center center scroll;
+    background: url('https://i.imgur.com/RoaQLjo.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
